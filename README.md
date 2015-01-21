@@ -6,3 +6,6 @@ https://dash.generalassemb.ly/dmcolor/build-your-own-personal-website
 
 Blog example
 https://dash.generalassemb.ly/dmcolor/build-your-own-blog-theme
+
+Restaurant Website
+https://dash.generalassemb.ly/dmcolor/build-your-own-business-website
